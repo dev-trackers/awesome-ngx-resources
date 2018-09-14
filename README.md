@@ -69,7 +69,7 @@ Useful Recommended Resources and Packages for Angular (Not AngularJS). This is a
 
 
 * [ngrx Reactive libraries](https://github.com/ngrx/platform) Reactive libraries for Angular. @ngrx/store, @ngrx/effects, @ngrx/router-store, @ngrx/store-devtools, @ngrx/entity, @ngrx/schematics
-* [mobx-angular](https://github.com/mobxjs/mobx-angular)
+* [mobx-angular](https://github.com/mobxjs/mobx-angular) State Management for Angular
 * [ngxs State Management](https://github.com/ngxs/store) State Management for Angular
 
 ## (3) Good Videos
