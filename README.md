@@ -41,3 +41,6 @@ Pull request welcome for good packages and resouces for Angular.
 * [ng2-translate](https://www.npmjs.com/package/ng2-translate) An implementation of angular translate for Angular 2+
 * [angular-translator](https://www.npmjs.com/package/angular-translator) Simple translation service for angular applications
 
+# License
+
+MIT
