@@ -1,7 +1,7 @@
 # ngx-resources
 
 
-Useful Recommended Resources and Packages for Angular (Not AngularJS). This is apart from the [Angular](https://angular.io), [Angular-CLI](https://cli.angular.io), and [Angular Component Development Kit]() projects. Pull request welcome for good packages and resouces for Angular.
+Useful Recommended Resources and Packages for Angular (Not AngularJS). This is apart from the [Angular](https://angular.io), [Angular-CLI](https://cli.angular.io), and [Angular Component Development Kit](https://material.angular.io/cdk/categories) projects. Pull request welcome for good packages and resouces for Angular.
 
 
 ## (1) UI Frameworks, Component, and KITs
@@ -76,6 +76,7 @@ Useful Recommended Resources and Packages for Angular (Not AngularJS). This is a
 
 
 ### [ng-conf Channel](https://www.youtube.com/user/ngconfvideos/featured)
+### [AngularConnect Channel](https://www.youtube.com/channel/UCzrskTiT_ObAk3xBkVxMz5g)
 
 # License
 
