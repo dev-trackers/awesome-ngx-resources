@@ -11,13 +11,13 @@ Pull request welcome for good packages and resouces for Angular.
 
 ### UI Components Kit
 * [Angular Material UI Framework and Kit](https://material.angular.io/)
-* [KENDO UI KIT](https://www.telerik.com/kendo-ui) Good UI Kit (Pro)
+* [KENDO UI KIT](https://www.telerik.com/kendo-ui) Good UI Component Kit (Pro)
 * [Angular Bootstrap Widgets](https://ng-bootstrap.github.io/) Angular widgets built from the ground up using only Bootstrap 4 CSS (Free)
-* [ngx-bootstrap](https://valor-software.com/ngx-bootstrap/) Good UI Component (Free)
-* [Syncfusion](https://www.syncfusion.com/products/angular) Good UI Kit (Pro)
-* [PrimeNG](https://www.primefaces.org/primeng/#/) Good Customizable (Free and Paid)
+* [ngx-bootstrap](https://valor-software.com/ngx-bootstrap/) Good UI Component Kit (Free)
+* [Syncfusion](https://www.syncfusion.com/products/angular) Good UI Component Kit (Pro)
+* [PrimeNG](https://www.primefaces.org/primeng/#/) Good Customizable UI Component Kit (Free and Paid)
 * [CoreUI Admin UI Bootstrap Based Template](https://coreui.io/angular/) UI template (Free / Pro)
-* [Material Design for Bootstrap UI Kit](https://mdbootstrap.com/angular/) Angular Material Design for Bootstrap 4 - UI Kit (Free / Pro)
+* [Material Design for Bootstrap UI Template](https://mdbootstrap.com/angular/) Angular Material Design for Bootstrap 4 Template - UI Kit (Free / Pro)
 
 
 ### UI Components
